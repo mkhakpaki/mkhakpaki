@@ -64,7 +64,7 @@ Welcome to my GitHub! I'm a passionate IT engineer specializing in mobile applic
 
 I'm always open to collaborating on innovative projects, contributing to open source, or discussing new ideas. Feel free to reach out!
 
-- 📧 **Contact**: [mohamad.khakpaki@gmail.com](mohamad.khakpaki@gmail.com)
+- 📧 **Contact**: [mohamad.khakpaki@gmail.com](mailto:mohamad.khakpaki@gmail.com)
 
 ## 📊 GitHub Stats
 
