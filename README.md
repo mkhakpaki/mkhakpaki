@@ -39,24 +39,24 @@ Welcome to my GitHub! I'm a passionate IT engineer specializing in mobile applic
 ## 🖋️ Publications
 
 - **Yazılımcı Olmak: Başlangıç Seviyesindeki Kişiler İçin Anahtar Stratejiler**
-  - 📄 [Read the article on Medium](https://medium.com/appcent/yaz%C4%B1l%C4%B1mc%C4%B1-olmak-ba%C5%9Flang%C4%B1%C3%A7-seviyesindeki-ki%C5%9Filer-i%C3%A7in-anahtar-stratejiler-1c2e1b1e1e1e)
+  - 📄 [Read the article on Medium](https://medium.com/appcent/yazılımcı-olmak-başlangıç-seviyesindeki-kişiler-i̇çin-anahtar-stratejiler-54ddc9a50573)
 
 - **Android In-App Purchases Made Easy**
-  - 📄 [Read the article on Medium](https://medium.com/appcent/android-in-app-purchases-made-easy-1c2e1b1e1e1e)
+  - 📄 [Read the article on Medium](https://medium.com/appcent/android-in-app-purchases-made-easy-0f77e69aa441)
 
 - **Google Play Console'da Kapalı Test**
-  - 📄 [Read the article on Medium](https://medium.com/appcent/google-play-console-da-kapal%C4%B1-test-1c2e1b1e1e1e)
+  - 📄 [Read the article on Medium](https://medium.com/appcent/google-play-console-da-kapalı-test-4c51514c2d7e)
 
 - **ViewModel Nasıl Hayatta Kalıyor?**
   - 📄 [Read the article on Medium](https://medium.com/appcent/viewmodel-nas%C4%B1l-hayatta-kal%C4%B1yor-5b493ef1e882)
 
-- **Google TalkBack'ı Açıklamak: Android Erişilebilirliğine Teknik Bir Dalış**
-  - 📄 [Read the article on Medium](https://medium.com/appcent/google-talkback%C4%B1-a%C3%A7%C4%B1klamak-android-eri%C5%9Filebilirli%C4%9Fine-teknik-bir-dal%C4%B1%C5%9F-1c2e1b1e1e1e)
+- **Demystifying Google TalkBack: A Technical Deep Dive into Android Accessibility**
+  - 📄 [Read the article on Medium](https://medium.com/appcent/demystifying-google-talkback-a-technical-deep-dive-into-android-accessibility-299267189b5)
 
 ## 😎 Featured Project
 
 - **Medication Reminder App**
-  - 🔗 [Available on Google Play](https://play.google.com/store/apps/details?id=com.example.medicationreminder)
+  - 🔗 [Available on Google Play](https://play.google.com/store/apps/details?id=com.mediqation.android) 
   - 🔧 Designed and developed a medication reminder app to help users manage their daily medication schedule.
   - ⚙️ Implemented push notifications and an intuitive user interface to enhance usability.
 
