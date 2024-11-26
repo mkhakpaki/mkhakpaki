@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate IT engineer specializing in mobile applic
 
 ## 🌟 About Me
 
-- 🔭 **Current Role**: Mobile Application Developer at Appcent
+- 🔭 **Current Role**: Android Developer Developer at Appcent
 - 🌍 **Location**: Istanbul, Turkey
 - 🌐 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/mkhakpaki/)
 - ✨ **Interests**: Mobile Development, Clean Code Practices, Continuous Learning
@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a passionate IT engineer specializing in mobile applic
 
 ## 💼 Experience
 
-- **Mobile Application Developer at Appcent (2023 – Present)**
+- **Android Developer at Appcent (2023 – Present)**
   - ✨ Played a key role in developing and managing the official Istanbul Airport app as part of the Appcent team.
   - 🔧 Implemented clean code practices to ensure maintainable and scalable codebases.
   - 🚀 Collaborated with cross-functional teams to deliver projects on time.
