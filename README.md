@@ -68,5 +68,5 @@ I'm always open to collaborating on innovative projects, contributing to open so
 
 ## 📊 GitHub Stats
 
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkhakpaki&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhakpaki&layout=compact&theme=radical)
+![Mohammad's GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
