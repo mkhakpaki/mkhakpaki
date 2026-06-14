@@ -29,7 +29,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=mkhakpaki&layout=compact&theme=radical&count_private=true
+          # Added &hide=javascript,html,css,php to the options string
+          options: username=mkhakpaki&layout=compact&theme=radical&count_private=true&hide=javascript,html,css,php
           path: profile/top-langs.svg
           token: ${{ secrets.GRS_TOKEN }}
 
